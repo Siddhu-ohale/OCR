@@ -1,0 +1,9 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+# pillow==10.3.0
+pytesseract==0.3.10
+requests==2.31.0
+python-dotenv==1.0.1
+fastapi[all]
+Pillow
+python-dotenv
